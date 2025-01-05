@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project Based\\RealStateAgency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32AE3D7C-D400-4BD6-A4CD-776596507963}|RealStateAgency\\RealStateAgency.csproj|e:\\project based\\realstateagency\\realstateagency\\content\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{32AE3D7C-D400-4BD6-A4CD-776596507963}|RealStateAgency\\RealStateAgency.csproj|solutionrelative:realstateagency\\content\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AE3D7C-D400-4BD6-A4CD-776596507963}|RealStateAgency\\RealStateAgency.csproj|E:\\Project Based\\RealStateAgency\\realstateagency\\content\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{32AE3D7C-D400-4BD6-A4CD-776596507963}|RealStateAgency\\RealStateAgency.csproj|solutionrelative:realstateagency\\content\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AE3D7C-D400-4BD6-A4CD-776596507963}|RealStateAgency\\RealStateAgency.csproj|E:\\Project Based\\RealStateAgency\\realstateagency\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32AE3D7C-D400-4BD6-A4CD-776596507963}|RealStateAgency\\RealStateAgency.csproj|solutionrelative:realstateagency\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AE3D7C-D400-4BD6-A4CD-776596507963}|RealStateAgency\\RealStateAgency.csproj|E:\\Project Based\\RealStateAgency\\realstateagency\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AE3D7C-D400-4BD6-A4CD-776596507963}|RealStateAgency\\RealStateAgency.csproj|solutionrelative:realstateagency\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AE3D7C-D400-4BD6-A4CD-776596507963}|RealStateAgency\\RealStateAgency.csproj|E:\\Project Based\\RealStateAgency\\realstateagency\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32AE3D7C-D400-4BD6-A4CD-776596507963}|RealStateAgency\\RealStateAgency.csproj|solutionrelative:realstateagency\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AE3D7C-D400-4BD6-A4CD-776596507963}|RealStateAgency\\RealStateAgency.csproj|E:\\Project Based\\RealStateAgency\\realstateagency\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AE3D7C-D400-4BD6-A4CD-776596507963}|RealStateAgency\\RealStateAgency.csproj|solutionrelative:realstateagency\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.js",
+              "DocumentMoniker": "E:\\Project Based\\RealStateAgency\\RealStateAgency\\Content\\assets\\js\\main.js",
+              "RelativeDocumentMoniker": "RealStateAgency\\Content\\assets\\js\\main.js",
+              "ToolTip": "E:\\Project Based\\RealStateAgency\\RealStateAgency\\Content\\assets\\js\\main.js",
+              "RelativeToolTip": "RealStateAgency\\Content\\assets\\js\\main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-04T15:22:31.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.css",
+              "DocumentMoniker": "E:\\Project Based\\RealStateAgency\\RealStateAgency\\Content\\assets\\css\\main.css",
+              "RelativeDocumentMoniker": "RealStateAgency\\Content\\assets\\css\\main.css",
+              "ToolTip": "E:\\Project Based\\RealStateAgency\\RealStateAgency\\Content\\assets\\css\\main.css",
+              "RelativeToolTip": "RealStateAgency\\Content\\assets\\css\\main.css",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAEYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-04T14:06:28.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Project Based\\RealStateAgency\\RealStateAgency\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RealStateAgency\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Project Based\\RealStateAgency\\RealStateAgency\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RealStateAgency\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T13:10:13.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\Project Based\\RealStateAgency\\RealStateAgency\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "RealStateAgency\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\Project Based\\RealStateAgency\\RealStateAgency\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "RealStateAgency\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:44:53.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "E:\\Project Based\\RealStateAgency\\RealStateAgency\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "RealStateAgency\\App_Start\\BundleConfig.cs",
+              "ToolTip": "E:\\Project Based\\RealStateAgency\\RealStateAgency\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "RealStateAgency\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:46:13.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Project Based\\RealStateAgency\\RealStateAgency\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RealStateAgency\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Project Based\\RealStateAgency\\RealStateAgency\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RealStateAgency\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T06:49:47.311Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
